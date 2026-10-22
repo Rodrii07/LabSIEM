@@ -38,10 +38,5 @@ Desplegar un servidor Wazuh (manager, indexer y dashboard) en una VM Ubuntu Serv
 ![Pantalla principal del dashboard de Wazuh](../screenshots/08-wazuh-active.png)
 *Dashboard de Wazuh tras el primer inicio de sesión exitoso.*
 
-## Problemas y soluciones
-| Problema | Causa | Solución |
-|---|---|---|
-| El dashboard mostraba "Could not select any API entry" | (completar con la causa real) | (completar con lo que aplicaste) |
-
 ## Notas
 - Las contraseñas generadas por el instalador no se incluyen en el repositorio.
